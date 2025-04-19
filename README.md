@@ -14,7 +14,14 @@
 
 ## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/07359465-4f0a-4b50-a945-da01254f9060.svg)](https://wakatime.com/@07359465-4f0a-4b50-a945-da01254f9060)
+
+```rust
+From: 10 March 2025 - To: 19 April 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
 
 <!--END_SECTION:waka-->
 <!-- Wakatime badge -->
