@@ -4,7 +4,7 @@
 
 ## 👋 Hi, I'm Gwanho Kim (khkim6040)
 
-- 📚 CS @ [POSTECH](https://postech.ac.kr/eng/index.do)
+- 📚 CS [@POSTECH](https://postech.ac.kr/eng/index.do)
 - 🔧 Backend developer | NestJS enthusiast
 - 🚕 Developer of 
     - [POPO](https://popo.poapper.club/)
