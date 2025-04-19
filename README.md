@@ -1,13 +1,15 @@
 <!-- 헤더 이미지 (직접 촬영한 사진) -->
-<img src="https://raw.githubusercontent.com/khkim6040/khkim6040/main/assets/header.jpg" alt="My Photo Header" width="100%" />
+<img src="assets/header.jpg" alt="My Photo Header" width="100%" />
 
 
-## 👋 Hi, I’m GwanHo Kim (khkim6040)
+## 👋 Hi, I'm Gwanho Kim (khkim6040)
 
-- 📚 CS @ POSTECH
+- 📚 CS @ [POSTECH](https://postech.ac.kr/eng/index.do)
 - 🔧 Backend developer | NestJS enthusiast
-- 🚕 Developer of [Paxi](https://github.com/khkim6040/paxi-nest-api)
-- 🔍 Interested in distributed systems & caching
+- 🚕 Developer of 
+    - [POPO](https://popo.poapper.club/)
+    - [Paxi](https://github.com/poapper/paxi-popo-nest-api)
+- 🔍 Interested in Distributed Systems & Cloud Services
 
 
 ## 📊 Weekly development breakdown
