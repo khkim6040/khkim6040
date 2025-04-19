@@ -1,5 +1,5 @@
 <!-- 헤더 이미지 (직접 촬영한 사진) -->
-<img src="assets/header.jpg" alt="My Photo Header" width="100%" />
+<img src="https://github.com/khkim6040/khkim6040/blob/main/assests/header.jpg" alt="My Photo Header" width="100%" />
 
 
 ## 👋 Hi, I'm Gwanho Kim (khkim6040)
