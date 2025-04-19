@@ -1,6 +1,8 @@
 <!-- 헤더 이미지 (직접 촬영한 사진) -->
 <img src="https://github.com/khkim6040/khkim6040/blob/main/assests/header.jpg" alt="My Photo Header" width="100%" />
-
+<div align='center'>
+    <p><i>Golden Gate Bridge at Sunset</i></p>
+</div>
 
 ## 👋 Hi, I'm Gwanho Kim (khkim6040)
 
