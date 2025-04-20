@@ -26,4 +26,4 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-<!-- Wakatime badge -->
+[![wakatime](https://wakatime.com/badge/user/07359465-4f0a-4b50-a945-da01254f9060.svg)](https://wakatime.com/@07359465-4f0a-4b50-a945-da01254f9060)
