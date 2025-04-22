@@ -18,11 +18,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 March 2025 - To: 19 April 2025
+From: 10 March 2025 - To: 21 April 2025
 
-Total Time: 0 secs
+Total Time: 3 hrs 24 mins
 
-No activity tracked
+TypeScript     2 hrs 26 mins   █████████████████▒░░░░░░░   69.54 %
+C++            21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+Markdown       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Other          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
