@@ -18,15 +18,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 March 2025 - To: 22 April 2025
+From: 10 March 2025 - To: 24 April 2025
 
-Total Time: 7 hrs 52 mins
+Total Time: 12 hrs 1 min
 
-TypeScript     3 hrs 2 mins    █████████▓░░░░░░░░░░░░░░░   38.15 %
-Python         2 hrs 38 mins   ████████▒░░░░░░░░░░░░░░░░   33.02 %
-C++            1 hr 32 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
-Markdown       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Other          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+C++            4 hrs 14 mins   ████████▓░░░░░░░░░░░░░░░░   34.63 %
+TypeScript     4 hrs 2 mins    ████████▒░░░░░░░░░░░░░░░░   32.91 %
+Python         3 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
+Other          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
