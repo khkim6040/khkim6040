@@ -14,7 +14,7 @@
 - 🔍 Interested in Distributed Systems & Cloud Services
 
 
-## 📊 Weekly development breakdown
+## 📊 Development Status
 <!--START_SECTION:waka-->
 
 ```rust
