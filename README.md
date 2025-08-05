@@ -5,7 +5,7 @@
 </div>
 
 ## 👋 Hi, I'm Gwanho Kim (khkim6040)
-- 🌐 khkim6040.github.io
+- 🌐 [khkim6040.github.io](https://khkim6040.github.io)
 - 📚 CS [@POSTECH](https://postech.ac.kr/eng/index.do)
 - 🔧 Backend developer | NestJS enthusiast
 - 🚕 Developer of 
