@@ -17,17 +17,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 March 2025 - To: 06 September 2025
+From: 10 March 2025 - To: 07 September 2025
 
-Total Time: 328 hrs 23 mins
+Total Time: 335 hrs 53 mins
 
-TypeScript                114 hrs 40 mins ████████▓░░░░░░░░░░░░░░░░   34.03 %
-C#                        44 hrs 42 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
-Python                    25 hrs 18 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
-C                         17 hrs 3 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-Bash                      13 hrs 17 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-C++                       10 hrs 58 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Other                     8 hrs 39 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+TypeScript                120 hrs 49 mins ████████▓░░░░░░░░░░░░░░░░   35.05 %
+C#                        44 hrs 42 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+Python                    25 hrs 18 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+C                         17 hrs 3 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Bash                      13 hrs 21 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+C++                       10 hrs 58 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Other                     8 hrs 48 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 <!--END_SECTION:waka-->
