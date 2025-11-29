@@ -12,7 +12,7 @@
 - 🔍 Interested in Distributed Systems & Cloud Services
 
 
-## 📊 Development Status(Recent 6-months)
+## 📊 Development Status (Recent 6-Months)
 <!--START_SECTION:waka-->
 
 ```rust
