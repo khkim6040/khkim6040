@@ -16,16 +16,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 18 June 2025 - To: 17 December 2025
+From: 19 June 2025 - To: 18 December 2025
 
-Total Time: 390 hrs 24 mins
+Total Time: 384 hrs 51 mins
 
-TypeScript                 127 hrs 50 mins ████████░░░░░░░░░░░░░░░░░   31.88 %
-Markdown                   58 hrs 41 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
-C#                         44 hrs 42 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
-Kotlin                     19 hrs 35 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-Bash                       18 hrs 29 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Other                      10 hrs 36 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+TypeScript                 122 hrs 42 mins ███████▓░░░░░░░░░░░░░░░░░   31.03 %
+Markdown                   58 hrs 32 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
+C#                         44 hrs 42 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+Kotlin                     19 hrs 35 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Bash                       18 hrs 20 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Other                      10 hrs 35 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 ```
 
 <!--END_SECTION:waka-->
