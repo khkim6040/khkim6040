@@ -4,9 +4,9 @@
 </div>
 
 ## Hi, I'm Gwanho Kim
-- 📚 CS [@POSTECH](https://postech.ac.kr/eng/index.do)
-- 🔧 Backend developer | NestJS enthusiast
-- 🚕 Developer of 
+- 🔧 Backend Developer [@Naver Financial](https://www.naverfincorp.com/)
+- 📚 Undergrads CS [@POSTECH](https://postech.ac.kr/eng/index.do)
+- 🚕 Prior Developer of 
     - [POPO](https://popo.poapper.club/)
     - [Paxi](https://github.com/poapper/paxi-popo-nest-api)
 - 🔍 Interested in Distributed Systems & Cloud Services
