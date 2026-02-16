@@ -6,7 +6,7 @@
 ## Hi, I'm Gwanho Kim
 - 🔧 Backend Developer [@Naver Financial](https://www.naverfincorp.com/)
 - 📚 Graduate of [@POSTECH](https://postech.ac.kr/eng/index.do) Computer Science and Engineering
-- 🚕 Prior Developer of 
+- 🚕 Prior Lead Developer of [PoApper](https://github.com/PoApper)
     - [POPO](https://popo.poapper.club/)
     - [Paxi](https://github.com/poapper/paxi-popo-nest-api)
 - 🔍 Interested in Distributed Systems & Cloud Services
