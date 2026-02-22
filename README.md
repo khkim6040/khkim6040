@@ -11,10 +11,10 @@
     - [Paxi](https://github.com/poapper/paxi-popo-nest-api)
 - 🔍 Interested in Distributed Systems & Cloud Services
 
-## Fun stuff
-- [포스텍 의료공제회 자동완성 플러그인](https://chromewebstore.google.com/detail/postech-%EC%9D%98%EB%A3%8C%EA%B3%B5%EC%A0%9C-%EC%8B%A0%EC%B2%AD-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1/gkpfphjlchpdoaofcadidgjnfkdpabka)
-- [CS Quiz](https://cs-quiz-phi.vercel.app/)
-- [핀테크 백엔드 개발자를 위한 일일 기술 뉴스 큐레이션](https://skillful-cake-656.notion.site/30f70179f731801d8091c629c1741b66?v=30f70179f73180058d23000c0c886c29&p=30f70179f731819d92c9e8d990f30813&pm=s)
+## for fun
+- [포스텍 의료공제회 자동완성 플러그인](https://chromewebstore.google.com/detail/postech-%EC%9D%98%EB%A3%8C%EA%B3%B5%EC%A0%9C-%EC%8B%A0%EC%B2%AD-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1/gkpfphjlchpdoaofcadidgjnfkdpabka) ([repo](https://github.com/khkim6040/autofill-postech-medical-form-plugin))
+- [CS Quiz](https://cs-quiz-phi.vercel.app/) ([repo](https://github.com/khkim6040/cs-quiz))
+- [핀테크 백엔드 개발자를 위한 일일 기술 뉴스 큐레이션](https://skillful-cake-656.notion.site/30f70179f731801d8091c629c1741b66?v=30f70179f73180058d23000c0c886c29&p=30f70179f731819d92c9e8d990f30813&pm=s) ([repo](https://github.com/khkim6040/news-curator))
 
 ## 📊 Development Status (Recent 6-Months)
 <!--START_SECTION:waka-->
