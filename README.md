@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 September 2025 - To: 17 March 2026
+From: 17 September 2025 - To: 18 March 2026
 
-Total Time: 220 hrs 53 mins
+Total Time: 217 hrs 38 mins
 
-Markdown                   73 hrs 29 mins        ████████░░░░░░░░░░░░░░░░░   32.11 %
-TypeScript                 61 hrs                ██████▓░░░░░░░░░░░░░░░░░░   26.65 %
-C++                        28 hrs 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
-Kotlin                     19 hrs 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
-Other                      8 hrs                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Markdown                   73 hrs 29 mins        ████████░░░░░░░░░░░░░░░░░   32.59 %
+TypeScript                 58 hrs 48 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.08 %
+C++                        28 hrs 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+Kotlin                     19 hrs 32 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+Other                      7 hrs 51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
 ```
 
 <!--END_SECTION:waka-->
