@@ -11,11 +11,12 @@
     - [Paxi](https://github.com/poapper/paxi-popo-nest-api)
 - 🔍 Interested in Distributed Systems & Cloud Services
 
-## for fun
+## For my needs
 - [포스텍 의료공제회 자동완성 플러그인](https://chromewebstore.google.com/detail/postech-%EC%9D%98%EB%A3%8C%EA%B3%B5%EC%A0%9C-%EC%8B%A0%EC%B2%AD-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1/gkpfphjlchpdoaofcadidgjnfkdpabka) ([repo](https://github.com/khkim6040/autofill-postech-medical-form-plugin))
 - [CS Quiz](https://cs-quiz-phi.vercel.app/) ([repo](https://github.com/khkim6040/cs-quiz))
 - [핀테크 백엔드 개발자를 위한 일일 기술 뉴스 큐레이션](https://skillful-cake-656.notion.site/30f70179f731801d8091c629c1741b66?v=30f70179f73180058d23000c0c886c29&p=30f70179f731819d92c9e8d990f30813&pm=s) ([repo](https://github.com/khkim6040/news-curator))
-- [쓸모 있을 것 같은 AI와의 대화 아카이브 노션 페이지](https://skillful-cake-656.notion.site/26eb3580606d404abdb98adae50af79d?v=966b9b34165a4a9ab841fafc47f2aa5a) 
+- [한국어 특화 이력서 빌더](https://resume-kr-ecru.vercel.app/) ([repo](https://github.com/khkim6040/resume-kr))
+- [쓸모 있을 것 같은 AI와의 대화 아카이브 노션 페이지](https://skillful-cake-656.notion.site/26eb3580606d404abdb98adae50af79d?v=966b9b34165a4a9ab841fafc47f2aa5a)
 
 ## 📊 Development Status (Recent 6-Months)
 <!--START_SECTION:waka-->
