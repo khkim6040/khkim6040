@@ -13,24 +13,8 @@
 
 ## For my needs
 - [포스텍 의료공제회 자동완성 플러그인](https://chromewebstore.google.com/detail/postech-%EC%9D%98%EB%A3%8C%EA%B3%B5%EC%A0%9C-%EC%8B%A0%EC%B2%AD-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1/gkpfphjlchpdoaofcadidgjnfkdpabka)
-- [CS Quiz](https://cs-quiz-phi.vercel.app/)
+- [CS Quiz](https://cs-quiz.gwanho.com)
 - [핀테크 백엔드 개발자를 위한 일일 기술 뉴스 큐레이션](https://skillful-cake-656.notion.site/30f70179f731801d8091c629c1741b66)
-- [한국어 특화 이력서 빌더](https://resume-kr-ecru.vercel.app/)
+- [한국어 특화 이력서 빌더](https://resume-kr.gwanho.com)
+- [어른이 가이드](https://adulting.gwanho.com)
 - [쓸모 있을 것 같은 AI와의 대화 아카이브 노션 페이지](https://skillful-cake-656.notion.site/26eb3580606d404abdb98adae50af79d?v=966b9b34165a4a9ab841fafc47f2aa5a)
-
-## 📊 Development Status (Recent 6-Months)
-<!--START_SECTION:waka-->
-
-```rust
-From: 19 September 2025 - To: 20 March 2026
-
-Total Time: 208 hrs 16 mins
-
-Markdown                   72 hrs 30 mins        ████████▒░░░░░░░░░░░░░░░░   33.58 %
-TypeScript                 52 hrs 27 mins        ██████░░░░░░░░░░░░░░░░░░░   24.30 %
-C++                        28 hrs 1 min          ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
-Kotlin                     19 hrs 32 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
-Other                      7 hrs 37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-```
-
-<!--END_SECTION:waka-->
