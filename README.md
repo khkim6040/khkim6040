@@ -17,5 +17,4 @@
 - [핀테크 백엔드 개발자를 위한 일일 기술 뉴스 큐레이션](https://skillful-cake-656.notion.site/30f70179f731801d8091c629c1741b66)
 - [한국어 특화 이력서 빌더](https://resume.gwanho.com)
 - [어른이 가이드](https://adulting.gwanho.com)
-- [쓸모 있을 것 같은 AI와의 대화 아카이브 노션 페이지](https://skillful-cake-656.notion.site/26eb3580606d404abdb98adae50af79d?v=966b9b34165a4a9ab841fafc47f2aa5a)
 - [Vanish Pointer](https://github.com/khkim6040/vanish-pointer?tab=readme-ov-file#install) - 어디에서든지 스크롤 시 커서를 자동으로 숨겨주는 macOS 앱
