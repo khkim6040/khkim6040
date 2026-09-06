@@ -18,3 +18,4 @@
 - [한국어 특화 이력서 빌더](https://resume.gwanho.com)
 - [어른이 가이드](https://adulting.gwanho.com)
 - [Vanish Pointer](https://github.com/khkim6040/vanish-pointer?tab=readme-ov-file#install) - 어디에서든지 스크롤 시 커서를 자동으로 숨겨주는 macOS 앱
+- [Browser Fingerprint Lab](https://fingerprint.gwanho.com) - 브라우저 접속만으로 알아낼 수 있는 것들
