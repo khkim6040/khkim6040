@@ -14,9 +14,9 @@
 ## For my needs
 - [POSTECH Medical Aid Form Autofill](https://chromewebstore.google.com/detail/postech-%EC%9D%98%EB%A3%8C%EA%B3%B5%EC%A0%9C-%EC%8B%A0%EC%B2%AD-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1/gkpfphjlchpdoaofcadidgjnfkdpabka) - Chrome extension that fills in the repetitive fields of the claim form
 - [CS Quiz](https://cs-quiz.gwanho.com) - 10 CS questions a day, with a leaderboard
-- [Daily Tech News Curation for Fintech Backend Developers](https://skillful-cake-656.notion.site/30f70179f731801d8091c629c1741b66) - Claude reads RSS feeds, picks what matters, and posts a digest to Notion every morning
-- [한국어 특화 이력서 빌더](https://resume.gwanho.com) - 웹에서 작성하고 PDF로 다운로드
-- [어른이 가이드](https://adulting.gwanho.com) - 전입신고, 원룸 계약, 연말정산 등 학교에서 안 가르쳐주는 것들
+- [핀테크 백엔드 개발자를 위한 일일 기술 뉴스 큐레이션](https://skillful-cake-656.notion.site/30f70179f731801d8091c629c1741b66)
+- [한국어 특화 이력서 빌더](https://resume.gwanho.com) - 미리보기와 함께 웹에서 작성하고 PDF로 다운로드
+- [어른이 가이드](https://adulting.gwanho.com) - 어른이 되는 건 아무도 안 알려줬으니까
 - [Vanish Pointer](https://github.com/khkim6040/vanish-pointer?tab=readme-ov-file#install) - macOS app that hides the cursor while you scroll, in any app
 
 ## Out of curiosity
