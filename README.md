@@ -12,10 +12,16 @@
 - 🔍 Interested in Distributed Systems & Cloud Services
 
 ## For my needs
-- [포스텍 의료공제회 자동완성 플러그인](https://chromewebstore.google.com/detail/postech-%EC%9D%98%EB%A3%8C%EA%B3%B5%EC%A0%9C-%EC%8B%A0%EC%B2%AD-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1/gkpfphjlchpdoaofcadidgjnfkdpabka)
-- [CS Quiz](https://cs-quiz.gwanho.com)
-- [핀테크 백엔드 개발자를 위한 일일 기술 뉴스 큐레이션](https://skillful-cake-656.notion.site/30f70179f731801d8091c629c1741b66)
-- [한국어 특화 이력서 빌더](https://resume.gwanho.com)
-- [어른이 가이드](https://adulting.gwanho.com)
-- [Vanish Pointer](https://github.com/khkim6040/vanish-pointer?tab=readme-ov-file#install) - 어디에서든지 스크롤 시 커서를 자동으로 숨겨주는 macOS 앱
-- [Browser Fingerprint Lab](https://fingerprint.gwanho.com) - 브라우저 접속만으로 알아낼 수 있는 것들
+- [POSTECH Medical Aid Form Autofill](https://chromewebstore.google.com/detail/postech-%EC%9D%98%EB%A3%8C%EA%B3%B5%EC%A0%9C-%EC%8B%A0%EC%B2%AD-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1/gkpfphjlchpdoaofcadidgjnfkdpabka) - Chrome extension that fills in the repetitive fields of the claim form
+- [CS Quiz](https://cs-quiz.gwanho.com) - 10 CS questions a day, with a leaderboard
+- [Daily Tech News Curation for Fintech Backend Developers](https://skillful-cake-656.notion.site/30f70179f731801d8091c629c1741b66) - Claude reads RSS feeds, picks what matters, and posts a digest to Notion every morning
+- [한국어 특화 이력서 빌더](https://resume.gwanho.com) - 웹에서 작성하고 PDF로 다운로드
+- [어른이 가이드](https://adulting.gwanho.com) - 전입신고, 원룸 계약, 연말정산 등 학교에서 안 가르쳐주는 것들
+- [Vanish Pointer](https://github.com/khkim6040/vanish-pointer?tab=readme-ov-file#install) - macOS app that hides the cursor while you scroll, in any app
+
+## Out of curiosity
+- [GwanLang](https://github.com/khkim6040/GwanLang) - Tree-walking interpreter written in Kotlin
+- [Gwanbase](https://github.com/khkim6040/Gwanbase) - Relational database built from scratch in Kotlin, from disk I/O to SQL parser, transactions, and the PostgreSQL wire protocol
+- [System Internals Study](https://github.com/khkim6040/system-internals-study) - Layer-by-layer deep dive into what a backend actually runs on
+- [Browser Fingerprint Lab](https://fingerprint.gwanho.com) - What a web page learns about you with zero permissions
+- [Concurrency Ticketing Lab](https://github.com/khkim6040/concurrency-ticketing-lab) - Toggle race conditions in a ticket booking system and watch consistency and throughput trade off
