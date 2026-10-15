@@ -17,7 +17,7 @@
 - [핀테크 백엔드 개발자를 위한 일일 기술 뉴스 큐레이션](https://skillful-cake-656.notion.site/30f70179f731801d8091c629c1741b66)
 - [한국어 특화 이력서 빌더](https://resume.gwanho.com) - 미리보기와 함께 웹에서 작성하고 PDF로 다운로드
 - [어른이 가이드](https://adulting.gwanho.com) - 어른이 되는 건 아무도 안 알려줬으니까
-- [Vanish Pointer](https://github.com/khkim6040/vanish-pointer?tab=readme-ov-file#install) - macOS app that hides the cursor while you scroll, in any app
+- [Vanish Pointer](https://github.com/khkim6040/vanish-pointer?tab=readme-ov-file#install) - I HATE SEEING THE CURSOR WHEN I SCROLL
 
 ## Out of curiosity
 - [GwanLang](https://github.com/khkim6040/GwanLang) - Tree-walking interpreter written in Kotlin
